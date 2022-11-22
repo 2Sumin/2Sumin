@@ -6,7 +6,7 @@
 
 
 
-## 📚 Studying 
+## 🔨 Tech Stack 
 
 <div>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
@@ -19,6 +19,8 @@
 ## 📍 Top Languages card
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2Sumin&layout=compact)](https://github.com/2Sumin/github-readme-stats)
+
+## 📚 Studying 
 
 
 <!--
