@@ -30,3 +30,5 @@
 </a>
 <a href="mailto:lsmlsm426@knu.ac.kr"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lsmlsm426@knu.ac.kr"/></a>
 </div>
+<div> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
+is being prepared! </div>
