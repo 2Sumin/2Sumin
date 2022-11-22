@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 
+### 📚 Studying
+
 ### Top Languages card
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2Sumin)](https://github.com/2Sumin/github-readme-stats)
 <!--
