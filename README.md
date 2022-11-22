@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-# 🌟 Profile
+## 🌟 Profile
 - 🏫 Kyungpook National University
 - Majoring in Compter Science Engineering
 
 
 
-# 📚 Studying 
+## 📚 Studying 
 
 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=React&logoColor=white"/>
@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=React&logoColor=white"/>
 
-# 📍 Top Languages card
+## 📍 Top Languages card
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2Sumin)](https://github.com/2Sumin/github-readme-stats)
