@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=2Sumin's%20GitHub%20Profile&fontSize=90&animation=fadeIn&fontAlignY=38)
+
 # 🌟 Profile
 
 > Hi, I want to be a **back-end developer** who is steadily developing!!
@@ -16,6 +18,14 @@
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2Sumin&layout=compact)](https://github.com/2Sumin/github-readme-stats)
+
+## 💖 Contact
+<div>
+<a href="https://www.instagram.com">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
+</a>
+<a href="mailto:lsmlsm426@knu.ac.kr"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lsmlsm426@knu.ac.kr"/></a>
+</div>
 
 <!-- ## 📚  
 - Java
