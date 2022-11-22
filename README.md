@@ -21,8 +21,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2Sumin&layout=compact)](https://github.com/2Sumin/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2Sumin)](https://github.com/2Sumin/github-readme-stats)
-
 <!--
 **2Sumin/2Sumin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
