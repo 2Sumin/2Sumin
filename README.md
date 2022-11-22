@@ -1,10 +1,8 @@
-
 # 🌟 Profile
+
 > Hi, I want to be a **back-end developer** who is steadily developing!!
 - 🏫 Kyungpook National University
 - Majoring in Compter Science Engineering
-
-
 
 ## 🔨 Tech Stack 
 
@@ -15,13 +13,14 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
 </div>
-
-## 📍 Top Languages card
+<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2Sumin&layout=compact)](https://github.com/2Sumin/github-readme-stats)
 
-## 📚 Studying 
-
+<!-- ## 📚  
+- Java
+- JavaScript
+-  -->
 
 <!--
 **2Sumin/2Sumin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
