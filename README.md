@@ -1,5 +1,5 @@
 
-## 🌟 Profile
+# 🌟 Profile
 > Hi, I want to be a **back-end developer** who is steadily developing!!
 - 🏫 Kyungpook National University
 - Majoring in Compter Science Engineering
