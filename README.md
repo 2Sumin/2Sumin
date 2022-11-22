@@ -2,6 +2,9 @@
 
 
 ### 📚 Studying
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=React&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=React&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=React&logoColor=white"/>
 
 ### Top Languages card
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2Sumin)](https://github.com/2Sumin/github-readme-stats)
