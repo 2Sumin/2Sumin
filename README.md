@@ -2,8 +2,10 @@
 
 
 ### 🌟 Profile
-* 🏫 KyeongPook University
+* 🏫 Kyungpook National University
 * Majoring in Compter Science Engineering
+
+---
 
 #### 📚 Studying
 ---
