@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+<h1> Profile </h1>
 ### 🌟 Profile
 * 🏫 Kyungpook National University
 * Majoring in Compter Science Engineering
