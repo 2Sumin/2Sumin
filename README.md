@@ -1,12 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=2Sumin's%20GitHub&fontSize=90&animation=fadeIn&fontAlignY=38)
 
-# 🌟 Profile
+# 🌟 Profile 
 
 > Hi, I want to be a **back-end developer** who is steadily developing!!
 - 🏫 Kyungpook National University
 - Majoring in Compter Science Engineering
 
-## 🔨 Tech Stack 
+<hr>
+
+## 🛠️ Tech Stack 
 
 <div>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
@@ -19,30 +21,12 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2Sumin&layout=compact)](https://github.com/2Sumin/github-readme-stats)
 
-## 💖 Contact
+<hr>
+
+## 💖 Contact 
 <div>
 <a href="https://www.instagram.com">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
 </a>
 <a href="mailto:lsmlsm426@knu.ac.kr"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lsmlsm426@knu.ac.kr"/></a>
 </div>
-
-<!-- ## 📚  
-- Java
-- JavaScript
--  -->
-
-<!--
-**2Sumin/2Sumin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
