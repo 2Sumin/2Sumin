@@ -18,9 +18,8 @@
 
 ## 📍 Top Languages card
 
-<img src="https://camo.githubusercontent.com/8066e8c662c946b3b9bccea1beaafc45b70ee790d54e000f0fe839642064e8d4/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d776c646e6432266c61796f75743d636f6d70616374" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=2Sumin&amp;layout=compact" style="max-width: 100%;">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2Sumin&layout=compact)](https://github.com/2Sumin/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2Sumin)](https://github.com/2Sumin/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2Sumin)](https://github.com/2Sumin/github-readme-stats)
 
