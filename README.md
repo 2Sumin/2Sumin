@@ -32,6 +32,10 @@
 <a href="https://www.instagram.com">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
 </a>
-<a href="mailto:lsmlsm426@knu.ac.kr"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lsmlsm426@knu.ac.kr"/></a>
-<a href="https://2sumin.notion.site/1b61eaffe02780b58021ff81da7e3ec5?pvs=4"><img src="[https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lsmlsm426@knu.ac.kr](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)"/></a>
+<a href="mailto:lsmlsm426@knu.ac.kr">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lsmlsm426@knu.ac.kr"/>
+</a>
+<a href="https://2sumin.notion.site/1b61eaffe02780b58021ff81da7e3ec5?pvs=4">
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
+</a>
 </div>
